@@ -5,7 +5,7 @@ accurately anchor virtual content to real-world geographic coordinates, even for
 **more than 1 km away**.
 
 <p align="center">
-  <img src="assets/geoar-demo.gif" alt="GeoAR demo" width="600"/>
+  <img src="assets/geoarconcept.jpg" alt="GeoAR demo" width="600"/>
 </p>
 
 [![Paper](https://img.shields.io/badge/Paper-IJGIS%202024-blue)](https://doi.org/10.1080/13658816.2024.2355326)
