@@ -5,7 +5,7 @@ accurately anchor virtual content to real-world geographic coordinates, even for
 **more than 1 km away**.
 
 <p align="center">
-  <img src="assets/geoarconcept.jpg" alt="GeoAR demo" width="600"/>
+  <img src="assets/occlusion.png" alt="GeoAR demo" width="600"/>
 </p>
 
 [![Paper](https://img.shields.io/badge/Paper-IJGIS%202024-blue)](https://doi.org/10.1080/13658816.2024.2355326)
@@ -24,7 +24,7 @@ GeoAR aligns virtual content with real-world geographic coordinates — allowing
 to render digital landmarks, buildings, and points of interest that are hundreds of meters
 or even kilometers away.
 
-The framework was developed as part of Ph.D. research at **TU Wien** (Research Group
+The framework was developed as part of research work at **TU Wien** (Research Group
 Geoinformation) and is published in the *International Journal of Geographical
 Information Science* (IJGIS).
 
@@ -37,12 +37,9 @@ Information Science* (IJGIS).
 - 🕶️ **HoloLens 2 ready** — reference implementation for Microsoft HoloLens 2
 - 🧩 **Adaptable** — code can be ported to other AR devices
 
----
-
-## 🎥 Demo
-
-<!-- Add a short GIF or video link here -->
-> _Demo video coming soon._
+<p align="center">
+  <img src="assets/geoarconcept.jpg" alt="GeoAR demo" width="300"/>
+</p>
 
 ---
 
